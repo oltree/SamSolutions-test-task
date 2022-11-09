@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SamSolutions-test-task/static/css/main.f6047017.css",
+    "main.js": "/SamSolutions-test-task/static/js/main.24f3e0d8.js",
+    "static/media/product_4.png": "/SamSolutions-test-task/static/media/product_4.bf8786078f3425a5b4fa.png",
+    "static/media/product_2.png": "/SamSolutions-test-task/static/media/product_2.89b8ba43a5751df4e3d7.png",
+    "static/media/product_3.png": "/SamSolutions-test-task/static/media/product_3.63581a68455b1e6a66d5.png",
+    "static/media/product_5.png": "/SamSolutions-test-task/static/media/product_5.632c7d5deb995ba498b4.png",
+    "static/media/product_1.png": "/SamSolutions-test-task/static/media/product_1.c073becccfbdd8a208b1.png",
+    "index.html": "/SamSolutions-test-task/index.html",
+    "main.f6047017.css.map": "/SamSolutions-test-task/static/css/main.f6047017.css.map",
+    "main.24f3e0d8.js.map": "/SamSolutions-test-task/static/js/main.24f3e0d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6047017.css",
+    "static/js/main.24f3e0d8.js"
+  ]
+}
